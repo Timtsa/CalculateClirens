@@ -1,0 +1,24 @@
+body{
+    width: 99%;
+}
+.input{
+    margin-bottom: 1ex;
+    margin-left: auto;
+}
+label{
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+/* form{
+    
+   justify-content: center;
+    
+} */
+
+h3{
+    text-align: center;
+    padding-top: 6%;
+}
+
